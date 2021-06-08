@@ -1,0 +1,12 @@
+/Users/phenomenal/CodingDojoAssignments/C#/CollectionsPractise/bin/Debug/netcoreapp3.1/CollectionsPractise.deps.json
+/Users/phenomenal/CodingDojoAssignments/C#/CollectionsPractise/bin/Debug/netcoreapp3.1/CollectionsPractise.runtimeconfig.json
+/Users/phenomenal/CodingDojoAssignments/C#/CollectionsPractise/bin/Debug/netcoreapp3.1/CollectionsPractise.runtimeconfig.dev.json
+/Users/phenomenal/CodingDojoAssignments/C#/CollectionsPractise/bin/Debug/netcoreapp3.1/CollectionsPractise.dll
+/Users/phenomenal/CodingDojoAssignments/C#/CollectionsPractise/bin/Debug/netcoreapp3.1/CollectionsPractise.pdb
+/Users/phenomenal/CodingDojoAssignments/C#/CollectionsPractise/obj/Debug/netcoreapp3.1/CollectionsPractise.csprojAssemblyReference.cache
+/Users/phenomenal/CodingDojoAssignments/C#/CollectionsPractise/obj/Debug/netcoreapp3.1/CollectionsPractise.AssemblyInfoInputs.cache
+/Users/phenomenal/CodingDojoAssignments/C#/CollectionsPractise/obj/Debug/netcoreapp3.1/CollectionsPractise.AssemblyInfo.cs
+/Users/phenomenal/CodingDojoAssignments/C#/CollectionsPractise/obj/Debug/netcoreapp3.1/CollectionsPractise.csproj.CoreCompileInputs.cache
+/Users/phenomenal/CodingDojoAssignments/C#/CollectionsPractise/obj/Debug/netcoreapp3.1/CollectionsPractise.dll
+/Users/phenomenal/CodingDojoAssignments/C#/CollectionsPractise/obj/Debug/netcoreapp3.1/CollectionsPractise.pdb
+/Users/phenomenal/CodingDojoAssignments/C#/CollectionsPractise/obj/Debug/netcoreapp3.1/CollectionsPractise.genruntimeconfig.cache
